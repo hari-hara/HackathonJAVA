@@ -1,0 +1,11 @@
+/bin/
+/.classpath
+/logs/
+/target/
+/.settings/
+/.project
+/.metadata/
+/project/project
+/project/target
+/.sonar
+/.springBeans
