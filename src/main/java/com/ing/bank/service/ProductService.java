@@ -10,4 +10,6 @@ import com.ing.bank.model.ProductGroupCount;
 public interface ProductService {
 
 	public List<GroupAndCount> getCountOfProductGroup();
+	
+	public List<ProductDetails> getProductDetails();
 }
