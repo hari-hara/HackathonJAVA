@@ -51,6 +51,13 @@
 			<artifactId>mysql-connector-java</artifactId>
 		   	<scope>runtime</scope>
 		</dependency>
+		
+		<distributionManagement>
+  			<snapshotRepository>
+   			 	<id>snapshot</id>
+  				<url>http://35.154.179.135:8081/nexus/content/repositories/snapshot</url>
+ 			 </snapshotRepository>
+		</distributionManagement>
 		<!-- <dependency>
 	<groupId>org.springframework.boot</groupId>
 	<artifactId>spring-boot-starter</artifactId>
