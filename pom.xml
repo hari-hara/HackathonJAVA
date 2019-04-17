@@ -70,11 +70,11 @@
 	</dependencies>
 	
 	<distributionManagement>
-  		<snapshotRepository>
-   		 	<id>snapshot</id>
-  			<url>http://3.86.105.90:8081/nexus/content/repositories/snapshot</url>
- 		 </snapshotRepository>
-	</distributionManagement>
+  <repository>
+    <id>snpshot</id>
+    <url>http://3.86.112.202:8081/nexus/content/repositories/snpshot</url>
+  </repository>
+</distributionManagement>
 
 	<build>
 		<plugins>
