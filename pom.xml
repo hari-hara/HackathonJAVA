@@ -71,7 +71,7 @@
 	
 	<distributionManagement>
   <repository>
-    <id>snpshot</id>
+    <id>snpshot1</id>
     <url>http://3.86.112.202:8081/nexus/content/repositories/snpshot</url>
   </repository>
 </distributionManagement>
